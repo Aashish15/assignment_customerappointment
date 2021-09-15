@@ -1,0 +1,7 @@
+C:\training\Assignments\aashishtoshniwal-46129010-customerqueue\aashishtoshniwal-46129010-customerqueue\obj\Debug\aashishtoshniwal-46129010-customerqueue.csprojAssemblyReference.cache
+C:\training\Assignments\aashishtoshniwal-46129010-customerqueue\aashishtoshniwal-46129010-customerqueue\obj\Debug\aashishtoshniwal-46129010-customerqueue.csproj.CoreCompileInputs.cache
+C:\training\Assignments\aashishtoshniwal-46129010-customerqueue\aashishtoshniwal-46129010-customerqueue\bin\Debug\aashishtoshniwal-46129010-customerqueue.exe.config
+C:\training\Assignments\aashishtoshniwal-46129010-customerqueue\aashishtoshniwal-46129010-customerqueue\bin\Debug\aashishtoshniwal-46129010-customerqueue.exe
+C:\training\Assignments\aashishtoshniwal-46129010-customerqueue\aashishtoshniwal-46129010-customerqueue\bin\Debug\aashishtoshniwal-46129010-customerqueue.pdb
+C:\training\Assignments\aashishtoshniwal-46129010-customerqueue\aashishtoshniwal-46129010-customerqueue\obj\Debug\aashishtoshniwal-46129010-customerqueue.exe
+C:\training\Assignments\aashishtoshniwal-46129010-customerqueue\aashishtoshniwal-46129010-customerqueue\obj\Debug\aashishtoshniwal-46129010-customerqueue.pdb
